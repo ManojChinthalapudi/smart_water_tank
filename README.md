@@ -22,8 +22,8 @@ tank and provides real-time updates with the help of incorporated sensors.
 10. Water tap
 
 # Software Used
-.Blynk
-.ThingSpeak
+. Blynk
+. ThingSpeak
 
 ![c1](https://github.com/ManojChinthalapudi/smart_water_tank/assets/137071534/dfafcc2e-c648-4a90-ae23-34677b753c7e)
 ![c2](https://github.com/ManojChinthalapudi/smart_water_tank/assets/137071534/adb8fdff-c8ed-4adf-a465-aa82581171de)
@@ -38,4 +38,5 @@ Pump.
 3. Level Horizontal widget to show the water level in the Tank.
 4. Two Labeled Value widgets to display the water flow level and the water bill.
 
+![o1](https://github.com/ManojChinthalapudi/smart_water_tank/assets/137071534/afe7a376-6a95-436f-9be1-32ec56d6ed15)
 
