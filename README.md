@@ -40,3 +40,7 @@ Pump.
 
 ![o1](https://github.com/ManojChinthalapudi/smart_water_tank/assets/137071534/afe7a376-6a95-436f-9be1-32ec56d6ed15)
 
+# Output Images
+![o2](https://github.com/ManojChinthalapudi/smart_water_tank/assets/137071534/38a665db-039c-4391-a66e-1bd5c37c55e8)
+![o3](https://github.com/ManojChinthalapudi/smart_water_tank/assets/137071534/16957b7e-c511-4361-a068-9e67f336caf7)
+
